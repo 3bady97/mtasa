@@ -12,7 +12,7 @@
 </head>
 <body>
 <?php
-$localIP = $_SERVER['SERVER_ADDR'];
+$localIP = $_SERVER['REMOTE_ADDR'];
 
 ?>
 <br/>
