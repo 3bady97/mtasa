@@ -92,6 +92,14 @@ $localIP = fetch_alt_ip();
 <br/>
 <br/>
 <input type="submit" class="ui inverted secondary button" value="submit" name="submit">
+<br/>
+<br/>
+<br/>
+<br/>
+  <div class="right floated left aligned six wide column">
+
+ <h5 class="ui center aligned header">By &hearts;<a href="https://facebook.com/king3bady" target="_blank"> K3 </a> </h5>
+</div>
 </form>
 
 <?php
@@ -131,6 +139,19 @@ if(!empty($curl)){
 
 </div>
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 
