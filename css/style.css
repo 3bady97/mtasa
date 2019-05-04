@@ -1,0 +1,12 @@
+body
+{
+   background: #efefef !important;
+}
+.ui.cards a.card, .ui.link.card, .ui.link.cards .card, a.ui.card
+{
+	background: #ffffff2e !important;
+}
+.ui.cards a.card:hover, .ui.link.card:hover, .ui.link.cards .card:hover, a.ui.card:hover
+{
+	background: #ffffff69 !important;
+}
